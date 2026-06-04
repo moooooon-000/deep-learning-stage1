@@ -1,2 +1,6 @@
-CIFAR-10/
-*.7Z
+CIFAR-10/train/
+CIFAR-10/test/
+CIFAR-10/*.7z
+CIFAR-10/*.7Z
+CIFAR-10/*.csv
+*.json
